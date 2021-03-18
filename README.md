@@ -1,4 +1,5 @@
 # grid-auto-fill-test
+Base vue project for showing and testing how we can use css grid's fill options to make responsive layouts, expecially used for logos.
 
 ## Project setup
 ```
