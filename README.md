@@ -1,4 +1,4 @@
-# pt-demo
+# grid-auto-fill-test
 
 ## Project setup
 ```
