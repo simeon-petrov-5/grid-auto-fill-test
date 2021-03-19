@@ -8,23 +8,23 @@
       <div class="relative max-w-main mx-auto">
         <div class="flex flex-col min-h-screen lg:flex-row lg:items-center">
           <div
-            class="flex flex-col flex-grow my-6 bg-white lg:shadow-2xl lg:rounded-lg lg:overflow-hidden"
+            class="flex flex-col flex-grow my-8 py-6 bg-white lg:shadow-2xl lg:rounded-lg lg:overflow-hidden"
           >
-            <h2 class="text-center text-xl mb-2">Tier 1</h2>
+            <h2 class="text-center text-2xl font-bold mb-2">SEASON SPONSOR</h2>
             <div class="customGrid tier1 mb-6">
               <span v-for="i in 4" :key="'tier1' + i">
                 <img src="./images/tier1.png" alt="Logo tier1" srcset="" />
               </span>
             </div>
 
-            <h2 class="text-center text-xl mb-2">Tier 2</h2>
+            <h2 class="text-center text-2xl font-bold mb-2">SUPPORTING SPONSOR</h2>
             <div class="customGrid tier2 mb-6">
               <span v-for="i in 10" :key="'tier2' + i">
                 <img src="./images/tier2.png" alt="Logo tier2" srcset="" />
               </span>
             </div>
 
-            <h2 class="text-center text-xl mb-2">Tier 3</h2>
+            <h2 class="text-center text-2xl font-bold mb-2">COMMUNITY SPONSOR</h2>
             <div class="customGrid tier3 mb-6">
               <span v-for="i in 10" :key="'tier3' + i">
                 <img src="./images/tier3.png" alt="Logo tier3" srcset="" />
